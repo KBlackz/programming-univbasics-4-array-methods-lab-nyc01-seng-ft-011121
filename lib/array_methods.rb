@@ -5,6 +5,7 @@ end
 
 def using_sort(array)
   
+  
 
 end
 
@@ -27,3 +28,4 @@ end
 
 
 
+sorted_cats = famous_cats.sort
