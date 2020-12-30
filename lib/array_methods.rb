@@ -28,4 +28,3 @@ end
 
 
 
-sorted_cats = famous_cats.sort
