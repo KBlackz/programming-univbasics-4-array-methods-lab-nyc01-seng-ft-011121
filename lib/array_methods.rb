@@ -4,8 +4,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  car_nigth = ["nissan", "honda", "chevey"]
-  car_nigth.sort
+ 
   
 end
 
