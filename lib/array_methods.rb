@@ -28,7 +28,8 @@ famous_cats.last
 end
 
 def using_size(array)
-  
+  famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+famous_cats.size
 
 end
 
