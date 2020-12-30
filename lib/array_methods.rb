@@ -10,7 +10,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-  famous_wizards = ["Dumbledore", "Gandalf", "arrays!"]
+  famous_wizards = ["Dumbledore", "wow", "arrays!"]
   famous_wizards.reverse
 
 end
