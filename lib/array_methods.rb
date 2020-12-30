@@ -22,7 +22,7 @@ def using_first(array)
 end
 
 def using_last(array)
-  famous_cats = ["lil' bub", "grumpy cat", "wow"]
+  famous_cats = ["lil' bub", "grumpy cat", "arrays!"]
 famous_cats.last
 
 end
